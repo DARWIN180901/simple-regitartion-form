@@ -1,0 +1,23 @@
+body{
+    background-image: url(images/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+
+
+
+
+
+#for{
+    
+    background-color: rgba(195, 195, 196, 0.418);
+    display:inline-block;
+    margin-left: 35%;
+    margin-top: 10%;
+    padding: 20px;
+}
+h2{
+    text-shadow: 5px 2px 5px rgba(124, 251, 255, 0.733);
+}
+
